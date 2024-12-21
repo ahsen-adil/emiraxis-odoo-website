@@ -1,0 +1,11 @@
+#mobile-menu {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .faq-item > div {
+    display: none;
+  }
+
+  .faq-item.active > div {
+    display: block;
+  }
